@@ -18,7 +18,7 @@
 
 ## Iteraciones ##
 
-Te proveemos de una página con su html, css y js. Este último donde habrás de hacer tus "experimentos".
+Te proveemos de una página con su html, css y js. Este último donde habrás de hacer tus "experimentos". No escribirás nada en la página de CSS.
 
 Podrás usar la consola para ver, de manera inmediata, si el resultado de tu código es el deseado.
 
@@ -27,10 +27,6 @@ Podrás usar la consola para ver, de manera inmediata, si el resultado de tu có
 Aquí hemos ejecutado `document.querySelector('.infocard')` para obtener el primer elemento de todos los que coincidan con dicha ejecución.
 
 Una vez lo tenemos, podemos interactuar con él y obtener la información que nos interese, para poder transformarla o mostrarla tal cual.
-
-Haremos dos tipos de ejercicios: Unos para mostrar por consola y otros para modificar la visualización de la página.
-
-No escribirás nada en la página de CSS.
 
 1. Cambia el título "Generation 1 Pokémon" por "Generasión 1 Pokimon".
 
