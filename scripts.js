@@ -10,3 +10,5 @@ console.log(webUrl)
 
 console.log(webUrl.split('/')[2])
 
+console.log(document.querySelectorAll('img'))
+
